@@ -28,7 +28,11 @@ This dashboard helps monitor sensor readings, predict **Remaining Useful Life (R
 - **Frontend:** [Streamlit](https://streamlit.io/)  
 - **Machine Learning:** Scikit-learn (Regression, Classification, Clustering)  
 - **Data Handling:** pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn
+- **Visualization:** Matplotlib, Seaborn  
+- **Machine Learning Models Used:**  
+  - **Random Forest Regressor** → for RUL prediction  
+  - **Random Forest Classifier** → for maintenance status prediction  
+  - **KMeans Clustering** → for anomaly detection
 
 ---
 
